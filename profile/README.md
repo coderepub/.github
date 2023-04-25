@@ -77,3 +77,24 @@
     </tr>
   </thead>
 </table>
+
+<hr />
+
+### Let's Get Connected ☎️
+
+<table align="center" border="0" cellpadding="0" cellspacing="0">
+  <thead>
+    <tr>
+      <td>
+        <img
+          src="https://raw.githubusercontent.com/coderepub/.github/main/images/contact/linkedin.svg"
+        />
+      </td>
+    <td>
+        <img
+          src="https://raw.githubusercontent.com/coderepub/.github/main/images/contact/email.svg"
+        />
+      </td>
+    </tr>
+  </thead>
+</table>
