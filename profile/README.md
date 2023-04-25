@@ -5,7 +5,7 @@
 
 ### Coderepub.io your Development Partners 🚀
 
-🚀 We're a top-tier JavaScript company with 💪 elite engineers and 🤝 consultants dedicated to powering up your digital transformation journey. Our 🔥 Fullstack JavaScript Developers are experts who work seamlessly with your team, delivering unparalleled results. 🏆
+🚀 We're a top-tier JavaScript company with 💪 elite engineers and 🤝 developers dedicated to powering up your digital transformation journey. Our 🔥 Fullstack JavaScript Developers are experts who work seamlessly with your team, delivering unparalleled results. 🏆
 
 👨‍💻💻 We're not just any company – we're the 🥇 best of the best in JavaScript development! Our team of 👨‍💻 Fullstack JavaScript Developers are skilled in everything from 💻 front-end to 💾 back-end development.
 
