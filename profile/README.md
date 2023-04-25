@@ -7,7 +7,7 @@ We're a top-tier JavaScript company with elite engineers and consultants dedicat
     <tr>
       <td>
         <img
-          src="../images/tech/js.svg"
+          src="./../images/tech/js.svg"
         />
       </td>
     <td>
