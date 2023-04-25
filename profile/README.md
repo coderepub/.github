@@ -7,22 +7,22 @@ We're a top-tier JavaScript company with elite engineers and consultants dedicat
     <tr>
       <td>
         <img
-          src="./../images/tech/js.svg"
+          src="https://raw.githubusercontent.com/coderepub/.github/main/images/tech/js.svg"
         />
       </td>
     <td>
         <img
-          src="../images/tech/ts.svg"
+          src="https://raw.githubusercontent.com/coderepub/.github/main/images/tech/ts.svg"
         />
       </td>
       <td>
         <img
-          src="../images/tech/react.svg"
+          src="https://raw.githubusercontent.com/coderepub/.github/main/images/tech/react.svg"
         />
       </td>
       <td>
         <img
-          src="../images/tech/nodejs.svg"
+          src="https://raw.githubusercontent.com/coderepub/.github/main/images/tech/nodejs.svg"
         />
       </td>
     </tr>
@@ -33,27 +33,27 @@ We're a top-tier JavaScript company with elite engineers and consultants dedicat
     <tr>
       <td>
         <img
-          src="../images/tech/nextjs.svg"
+          src="https://raw.githubusercontent.com/coderepub/.github/main/images/tech/nextjs.svg"
         />
       </td>
     <td>
         <img
-          src="../images/tech/html.svg"
+          src="https://raw.githubusercontent.com/coderepub/.github/main/images/tech/html.svg"
         />
       </td>
       <td>
         <img
-          src="../images/tech/css3.svg"
+          src="https://raw.githubusercontent.com/coderepub/.github/main/images/tech/css3.svg"
         />
       </td>
       <td>
         <img
-          src="../images/tech/tailwindcss.svg"
+          src="https://raw.githubusercontent.com/coderepub/.github/main/images/tech/tailwindcss.svg"
         />
       </td>
             <td>
         <img
-          src="../images/tech/styled-components.svg"
+          src="https://raw.githubusercontent.com/coderepub/.github/main/images/tech/styled-components.svg"
         />
       </td>
     </tr>
