@@ -87,11 +87,13 @@
     <tr>
       <td>
         <img
+          height="200px"
           src="https://raw.githubusercontent.com/coderepub/.github/main/images/contact/linkedin.svg"
         />
       </td>
     <td>
         <img
+         height="200px"
           src="https://raw.githubusercontent.com/coderepub/.github/main/images/contact/email.svg"
         />
       </td>
