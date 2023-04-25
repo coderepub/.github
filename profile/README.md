@@ -86,17 +86,22 @@
   <thead>
     <tr>
       <td>
+      <a href="https://www.linkedin.com/company/coderepub">
         <img
           height="200px"
           src="https://raw.githubusercontent.com/coderepub/.github/main/images/contact/linkedin.svg"
         />
+      </a>
       </td>
-    <td>
+      <td>
+      <a href="mailto:hi@coderepub.io">
         <img
          height="200px"
           src="https://raw.githubusercontent.com/coderepub/.github/main/images/contact/email.svg"
         />
+      </a>
       </td>
     </tr>
   </thead>
 </table>
+
