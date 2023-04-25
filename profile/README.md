@@ -86,7 +86,7 @@
   <thead>
     <tr>
       <td>
-      <a href="https://www.linkedin.com/company/coderepub">
+      <a href="https://www.linkedin.com/company/coderepub" target="_blank">
         <img
           height="200px"
           src="https://raw.githubusercontent.com/coderepub/.github/main/images/contact/linkedin.svg"
@@ -94,7 +94,7 @@
       </a>
       </td>
       <td>
-      <a href="mailto:hi@coderepub.io">
+      <a href="mailto:hi@coderepub.io" target="_blank">
         <img
          height="200px"
           src="https://raw.githubusercontent.com/coderepub/.github/main/images/contact/email.svg"
