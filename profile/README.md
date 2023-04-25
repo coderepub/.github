@@ -3,16 +3,23 @@
 </p>
 
 
-### Coderepub.io your Development Partners 🚀
+<h1 align="center">
+  Coderepub.io your Development Partners 🚀
+</h1>
+
+
 
 🚀 We're a top-tier JavaScript company with 💪 elite engineers and 🤝 developers dedicated to powering up your digital transformation journey. Our 🔥 Fullstack JavaScript Developers are experts who work seamlessly with your team, delivering unparalleled results. 🏆
 
 👨‍💻💻 We're not just any company – we're the 🥇 best of the best in JavaScript development! Our team of 👨‍💻 Fullstack JavaScript Developers are skilled in everything from 💻 front-end to 💾 back-end development.
 
-🌟 You can trust us to bring your digital dreams to life. Whether you need a new website, mobile app, or customized software solution, our team has the 💡 expertise and 🔨 experience to make it happen.
+🌟 You can trust us to bring your developemt dreams to life. Whether you need a new website, web app, or customized software solution, our team has the 💡 expertise and 🔨 experience to make it happen.
 
-🤝 Let us be your partner in your digital transformation journey – we'll be with you every step of the way! 💪
+🤝 Let us be your partner in your development journey – we'll be with you every step of the way! 💪
 
+<hr />
+
+### Tech Stack We Love ❤️ 
 <table align="center" border="0" cellpadding="0" cellspacing="0">
   <thead>
     <tr>
